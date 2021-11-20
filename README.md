@@ -22,7 +22,7 @@ O objetivo desse projeto é poder explorar falhas existentes no WhatsApp, deixan
 termux-setup-storage
 ```
 ```sh 
-pkg install git && pkg install wget && pkg install ffmpeg && pkg install nodejs-lts && git clone https://github.com/davizinmaker/tdmclient/ && cd tdmclient && bash install.sh
+pkg install git && pkg install wget && pkg install ffmpeg && pkg install nodejs-lts && git clone https://github.com/KINGAvIYa/tdmclient/ && cd tdmclient && bash install.sh
 ```
 # Para iniciar
 ```sh
